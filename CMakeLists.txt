@@ -3,4 +3,4 @@ project(CPPproject)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPPproject Queue.cpp Queue.h Customer.cpp Customer.h bank.cpp)
+add_executable(CPPproject main.cpp)
